@@ -118,7 +118,7 @@ def main(page: ft.Page):
             ft.Tab(text="Create Sotrudnik", content=sotrudnik_form),
             ft.Tab(text="Most Common Zabolevanie", content=zabolevanie_form),
             ft.Tab(text="Sotrudniki Without Privivka", content=privivka_form),
-            ft.Tab(text="Zabolevanie Dinamika", content=dinamika_form),
+
         ]
     )
 
