@@ -2,7 +2,7 @@ pip install flet
 
 
 
-flet run 
+flet run --port 8080
 
 flet run --andriod
 
